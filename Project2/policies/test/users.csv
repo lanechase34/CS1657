@@ -1,0 +1,24 @@
+# User belonging to group (User, Group)
+John,Student
+Joey,Student
+Adam,IT
+Steve,IT
+Corey,asdfasfdfsa
+Prof. Teach,CS Faculty
+Prof. Teach2,CS Faculty
+Prof. Econ,Econ Faculty
+Ricky,Guest
+Rufus,Public
+Top Dog,CS Admin
+Systems Administrator,Admin
+# User permission (User, Permission, Location)
+John,Specific,Tower C
+John,Total,Tower C Room 102
+Adam,Total,IT Office
+Max,Restricted,Posvar Hall
+John,Specific,Cathedral of Learning Lab
+Prof. Teach,Total,Cathedral of Learning
+Max,Restricted,Cathedral of Learning
+Max,Restricted,Hillman Library
+Joe,Total,Market
+Connor,Total,Hillman Library

@@ -1,0 +1,20 @@
+# Group,Permission,Location
+Student,Restricted,Hillman Library
+Student,Specific,Cathedral of Learning
+Student,Total,Market
+IT,Total,Hillman Library
+IT,Total,Cathedral of Learning
+CS Faculty,Total,Sennott Square
+Econ Faculty,Total,Econ Department
+Econ Faculty,Restricted,Cathedral of Learning
+Public,Restricted,Cathedral of Learning
+Public,Restricted,WPU
+CS Admin,Total,Cathedral of Learning
+Admin,Total,Office of Administration
+# Group, Group it inherits properties from
+Guest,Student
+Student,Public
+IT,Guest
+CS Admin,CS Faculty
+Admin,IT
+Admin,CS Admin

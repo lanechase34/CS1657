@@ -1,0 +1,9 @@
+grp1,y,loc6
+grp1,grp4
+grp2,x,loc10
+grp3,z,loc5
+grp3,grp2
+grp4,z,loc4
+grp4,grp3
+grp5,z,loc2
+grp5,grp1
